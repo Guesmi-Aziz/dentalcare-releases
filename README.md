@@ -1,1 +1,1 @@
-# dentalcare-releases
+# DentalCare Pro - Releases
