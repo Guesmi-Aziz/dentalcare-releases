@@ -8,7 +8,7 @@
 
 | Plateforme | Version | Lien |
 |---|---|---|
-| Windows | v1.0.0 | [Télécharger .exe](https://github.com/Guesmi-Aziz/dentalcare-releases/releases/download/v1.0.0/DentalCare.Pro-1.0.0-win.exe) |
+| Windows | v1.1 | [Télécharger .exe](https://github.com/Guesmi-Aziz/dentalcare-releases/releases/download/v1.0.0/DentalCare.Pro-1.0.0-win.exe) |
 | Mac | v1.0.0 | Bientôt disponible |
 
 ---
